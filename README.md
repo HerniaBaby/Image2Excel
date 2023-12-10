@@ -70,7 +70,7 @@ I = imresize(I,[150 150]);
 imshow(I)
 ```
 
-<center><img src="Image2Excel_media/figure_0.png" width="297" alt="figure_0.png"></center>
+<center><img src="README_media/figure_0.png" width="297" alt="figure_0.png"></center>
 
 
 画像は愛犬チャチャです。かわいいね( *´艸｀)
@@ -110,16 +110,10 @@ RGB値を抜き出してExcelで使えるようにします。
 最初は [Cody](https://jp.mathworks.com/matlabcentral/cody/groups/62/problems/1948) を参考にHex Stringに直してたんですが、結局[hex2dec](https://jp.mathworks.com/help/matlab/ref/hex2dec.html)に直してたのでそのままdouble型で出してます。
 
 
-:::note warn
-
-
 [How to set excel cell color to red from Matlab?](https://jp.mathworks.com/matlabcentral/answers/3352-how-to-set-excel-cell-color-to-red-from-matlab#answer_240369)
 
 
-ExcelはBGRなので注意してください。
-
-
-:::
+※ExcelはBGRなので注意してください。
 
 ```matlab
 I_d         = im2double(I);
@@ -242,12 +236,12 @@ end
 
 けっこうよくないですか？！
 
-<p style="text-align:left"><img src="Image2Excel_media/image_0.png" width="456" alt="image_0.png"></p>
+<p style="text-align:left"><img src="README_media/image_0.png" width="456" alt="image_0.png"></p>
 
 
 アップするとこんな感じです！
 
-<p style="text-align:left"><img src="Image2Excel_media/image_1.png" width="451" alt="image_1.png"></p>
+<p style="text-align:left"><img src="README_media/image_1.png" width="451" alt="image_1.png"></p>
 
 
 てことで完成です。
