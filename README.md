@@ -51,9 +51,9 @@
 
 色の制限もあるっぽいですが、今回はめんどくさいので減色もしません。
 
-
-
 反映されない理由
+
+
 [Excel で「異なるセル形式が多すぎます」というエラー メッセージが表示される](https://learn.microsoft.com/ja-JP/office/troubleshoot/excel/too-many-different-cell-formats-in-excel)
 
 ```matlab
