@@ -2,6 +2,10 @@ MATLAB Online で開くにはこちらをクリック！
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=HerniaBaby/Image2Excel)
 
+File Exchangeにも投稿しました。
+
+[![View Image2Excel on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/156971-image2excel)
+
 <a name="T_000F2974"></a>
 # <span style="color:rgb(213,80,0)">画像をExcelにするMATLAB術</span>
 <a name="beginToc"></a>
